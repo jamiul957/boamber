@@ -56,3 +56,15 @@ logo=(green+""" \n\x1b[1;91m<<------------------------------------------------->
 
 """)
 
+
+
+
+line=(yellow+"======================================================")
+tversion=(cyan+"\t\t   Version : 1.0.1 ")
+
+line2=("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+dtls=(yellow+"\t\t MODIFIED BY: J4M1U9(PICCI CODER) ")
+
+note=(cyan+"Note: I wont be responsible fo any illigal activites. >> This boamber tool is for use in Bangladesh only. Use our Global version for worldwide use.")
+
